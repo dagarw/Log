@@ -1,0 +1,15 @@
+.LOG
+8:25 AM 9/10/2015
+
+This log has been created to record data and events that occur 
+in our Quadcopter team.
+
+So far, our goal for this semester is to have the quadcopter hover
+stably. 
+
+We will mainly use PID algorithms to achieve this.
+
+You are welcome to record any data or add comments to this log at 
+anytime.
+
+ 
