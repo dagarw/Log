@@ -13,3 +13,23 @@ You are welcome to record any data or add comments to this log at
 anytime.
 
  
+
+4:11 PM 9/27/2015
+
+Sunday Meeting (2 - 4:15 PM)
+
+1) Resume/Career-Fair/Interview Talk
+	* Include your GPA on your resume no matter what
+	* Show your skills through your project/work experience
+2) Live Coding
+	* C/C++
+	* Learned how to fit everything into one for loop
+	* Pre/Post increment
+3) PID algorithms
+	* Went through code to understand how PID is being used
+	* PIDs have 2 inputs: current val and setpoint, a feedback loop,
+ 	  and an output that outputs the fixed value every cycle
+	* 4 PIDs: altitude, pitch, roll, yaw
+	* altitude will be set by the controller
+	* pitch, roll, yaw will be set by us
+	
