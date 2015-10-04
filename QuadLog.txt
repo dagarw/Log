@@ -109,9 +109,11 @@ Sunday Meeting (11AM - 2 PM)
 	* git push <name>
 	* Remove file from your local directory: rm <file-name>
 	* Commit the changes: git commit -m "message"
-	* Push the changes: git push <name>
+	* Push the changes: git push <name> master
 	* * CANNOT COMMIT EMPTY FILES! *
 	* to save/update everything: git fetch <name>; git rebase <name>/master
 
 3) Ilya flashed code onto the Quad. 
 
+
+4:05 PM 10/4/2015
