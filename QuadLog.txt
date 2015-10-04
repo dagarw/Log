@@ -111,4 +111,7 @@ Sunday Meeting (11 - )
 	* Commit the changes: git commit -m "message"
 	* Push the changes: git push <name>
 	* * CANNOT COMMIT EMPTY FILES! *
-	* git fetch <name>; git rebase <name>/master
+	* to save/update everything: git fetch <name>; git rebase <name>/master
+
+3) Flashing code into Quad/Hack
+	
