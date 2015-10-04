@@ -33,3 +33,27 @@ Sunday Meeting (2 - 4:15 PM)
 	* altitude will be set by the controller
 	* pitch, roll, yaw will be set by us
 	
+
+11:11 AM 10/4/2015
+
+Sunday Meeting (11 - )
+
+1) Live Coding
+	* WAP: Given two arrays of numbers >= 0, find differences.
+		Ex) arr1: 1,3,7,0,5;
+		    arr2: 1,2,4,7,9,3;
+		    diff: 2,4,9,3
+2) GitHub
+	* Basic steps: make changes, add changes, commit, push
+	* You can download github and then Git Shell, or do it through Cygwin.
+	* git init: makes a GitHub directory
+	* git remote add <name> <URL>: git remote add firmware https://github.com/ISUCTQuadcopterTeam/QuadCSource
+	* git remote -v
+	* git pull <name> master: git pull firmware master
+	* make a file, ex: text.txt
+	* git add <file-name>: git add text.txt
+	* git commit -m "message": git commit -m "test"
+	* git push <name>: git push text.txt
+	* Remove file from your local directory: rm <file-name>: rm text.txt
+	* Commit the changes: git commit -m "message"
+	* Push the changes: git push <name>: git push firmware
