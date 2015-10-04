@@ -36,7 +36,7 @@ Sunday Meeting (2 - 4:15 PM)
 
 11:11 AM 10/4/2015
 
-Sunday Meeting (11 - )
+Sunday Meeting (11AM - 2 PM)
 
 1) Live Coding
 	* WAP: Given two arrays of numbers >= 0, find elements that are in array 1 but not in array 2.
@@ -113,5 +113,5 @@ Sunday Meeting (11 - )
 	* * CANNOT COMMIT EMPTY FILES! *
 	* to save/update everything: git fetch <name>; git rebase <name>/master
 
-3) Flashing code into Quad/Hack
-	
+3) Ilya flashed code onto the Quad. 
+
